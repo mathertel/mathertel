@@ -3,6 +3,8 @@
 In this GitHub User place you can find current public projects.
 See more on <https://mathertel.github.io> and <https://www.mathertel.de>.
 
+<details>
+  
 ## Arduino Libraries
 
 [OneButton](https://github.com/mathertel/OneButton):
@@ -32,4 +34,4 @@ See more on <https://mathertel.github.io> and <https://www.mathertel.de>.
 [rfcodes](https://github.com/mathertel/rfcodes):
 [![Arduino Library Checks](https://github.com/mathertel/rfcodes/actions/workflows/arduino-checks.yml/badge.svg)](https://github.com/mathertel/rfcodes/actions/workflows/arduino-checks.yml)
 
-
+</details>
