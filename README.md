@@ -3,7 +3,7 @@
 In this GitHub User place you can find current public projects.
 See more on <https://mathertel.github.io> and <https://www.mathertel.de>.
 
-<details>
+<details><summary>Library Status Overview</summary>
   
 ## Arduino Libraries
 
